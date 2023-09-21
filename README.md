@@ -1,4 +1,4 @@
-# Jilin University Team TARS-GO Vision code  JLURoboVision
+# JLURoboVision
 ---
 
 ## Thanks
